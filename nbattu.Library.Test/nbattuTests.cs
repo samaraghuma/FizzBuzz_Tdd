@@ -20,9 +20,9 @@ namespace FizzBuzz.Library.Tests
             Assert.AreEqual(input.ToString(), output);
         }
         [Test]
-        public void Buzzer_When3_ReturnsFizz()
+        public void Buzzer_WhenDiv3_ReturnsFizz([Values(3,6)] int input)
         {
-            int input = 3;
+         
             string output = FizzBuzzer.Getvalue(input);
             Assert.AreEqual("Fizz", output);
         }
