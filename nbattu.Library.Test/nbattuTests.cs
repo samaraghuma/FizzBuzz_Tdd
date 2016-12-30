@@ -11,13 +11,7 @@ namespace FizzBuzz.Library.Tests
     [TestFixture]
     public class FizzBuzzerTests
     {
-        [Test]
-        public void Buzzer_When1_Returns1()
-        {
-            int input = 1;
-            string output = FizzBuzzer.Getvalue(input);
-            Assert.AreEqual("1", output);
-        }
+       
 
         [Test]
         public void Buzzer_WhenDefault_ReturnsInput([Values(1,2,4)]int input)
@@ -32,6 +26,12 @@ namespace FizzBuzz.Library.Tests
             string output = FizzBuzzer.Getvalue(input);
             Assert.AreEqual("Fizz", output);
         }
-        
+        [Test]
+        public void Buzzer_When5_ReturnsBuzz()
+        {
+            int input = 5;
+            string output = FizzBuzzer.Getvalue(input);
+            Assert.AreEqual("Buzz", output);
+        }
     }
 }
