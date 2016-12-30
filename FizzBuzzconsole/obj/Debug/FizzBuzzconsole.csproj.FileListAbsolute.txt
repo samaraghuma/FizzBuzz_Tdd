@@ -3,3 +3,6 @@ c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzzcon
 c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzzconsole\bin\Debug\FizzBuzzconsole.pdb
 c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzzconsole\obj\Debug\FizzBuzzconsole.exe
 c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzzconsole\obj\Debug\FizzBuzzconsole.pdb
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzzconsole\bin\Debug\FizzBuzz.library.dll
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzzconsole\bin\Debug\FizzBuzz.library.pdb
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzzconsole\obj\Debug\FizzBuzzconsole.csprojResolveAssemblyReference.cache

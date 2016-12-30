@@ -14,20 +14,20 @@ namespace FizzBuzz.Library.Tests
 
 
         [Test]
-        public void Buzzer_WhenDefault_ReturnsInput([Values(1, 2, 4, 7, 8, 11, 13, 14)]int input)
+        public void Buzzer_WhenDefault_ReturnsInput([Values(1, 2, 4, 7, 8, 11, 13, 14, 16, 17, 19)]int input)
         {
             string output = FizzBuzzer.Getvalue(input);
             Assert.AreEqual(input.ToString(), output);
         }
         [Test]
-        public void Buzzer_WhenDiv3_ReturnsFizz([Values(3, 6, 9, 12)] int input)
+        public void Buzzer_WhenDiv3_ReturnsFizz([Values(3, 6, 9, 12,18)] int input)
         {
 
             string output = FizzBuzzer.Getvalue(input);
             Assert.AreEqual("Fizz", output);
         }
         [Test]
-        public void Buzzer_WhenDiv5_ReturnsFizz([Values(5, 10)] int input)
+        public void Buzzer_WhenDiv5_ReturnsFizz([Values(5, 10,20)] int input)
         {
 
             string output = FizzBuzzer.Getvalue(input);

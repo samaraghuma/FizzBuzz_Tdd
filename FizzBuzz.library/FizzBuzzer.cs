@@ -10,13 +10,15 @@ namespace FizzBuzz.library
     {
         public static string Getvalue(int input)
         {
-            if (input % 3 == 0 && input % 5 ==0)
-                return "FizzBuzz";
+            string output = string.Empty;
+            
             if (input % 3 == 0)
-                return "Fizz";
+                output+= "Fizz";
             if (input % 5 == 0)
-                return "Buzz";
-            return input.ToString();
+                output+= "Buzz";
+            if (string.IsNullOrEmpty(output))
+                output = input.ToString();
+            return output;
         }
     }
 }
