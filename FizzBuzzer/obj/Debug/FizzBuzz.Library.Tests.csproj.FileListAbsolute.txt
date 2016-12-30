@@ -1,0 +1,8 @@
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzzer\bin\Debug\FizzBuzzer.dll
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzzer\bin\Debug\FizzBuzzer.pdb
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzzer\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzzer\obj\Debug\FizzBuzzer.dll
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzzer\obj\Debug\FizzBuzzer.pdb
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzzer\obj\Debug\FizzBuzz.Library.Tests.csprojResolveAssemblyReference.cache
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzzer\bin\Debug\FizzBuzz.library.dll
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzzer\bin\Debug\FizzBuzz.library.pdb

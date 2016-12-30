@@ -1,0 +1,9 @@
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzz.Library.Test\bin\Release\FizzBuzz.Library.Test.dll
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzz.Library.Test\bin\Release\FizzBuzz.Library.Test.pdb
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzz.Library.Test\bin\Release\FizzBuzz.library.dll
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzz.Library.Test\bin\Release\nunit.framework.dll
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzz.Library.Test\bin\Release\FizzBuzz.library.pdb
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzz.Library.Test\bin\Release\nunit.framework.xml
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzz.Library.Test\obj\Release\FizzBuzz.Library.Tests.csprojResolveAssemblyReference.cache
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzz.Library.Test\obj\Release\FizzBuzz.Library.Test.dll
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzz.Library.Test\obj\Release\FizzBuzz.Library.Test.pdb

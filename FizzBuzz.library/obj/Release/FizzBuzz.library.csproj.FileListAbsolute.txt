@@ -1,0 +1,4 @@
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzz.library\bin\Release\FizzBuzz.library.dll
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzz.library\bin\Release\FizzBuzz.library.pdb
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzz.library\obj\Release\FizzBuzz.library.dll
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzz.library\obj\Release\FizzBuzz.library.pdb

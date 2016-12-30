@@ -1,0 +1,5 @@
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzzconsole\bin\Release\FizzBuzzconsole.exe.config
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzzconsole\bin\Release\FizzBuzzconsole.exe
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzzconsole\bin\Release\FizzBuzzconsole.pdb
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzzconsole\obj\Release\FizzBuzzconsole.exe
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzzconsole\obj\Release\FizzBuzzconsole.pdb

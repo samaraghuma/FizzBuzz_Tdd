@@ -1,0 +1,9 @@
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzz.Library.Test\bin\Debug\FizzBuzz.Library.Test.dll
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzz.Library.Test\bin\Debug\FizzBuzz.Library.Test.pdb
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzz.Library.Test\obj\Debug\FizzBuzz.Library.Test.csprojResolveAssemblyReference.cache
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzz.Library.Test\obj\Debug\FizzBuzz.Library.Test.dll
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzz.Library.Test\obj\Debug\FizzBuzz.Library.Test.pdb
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzz.Library.Test\bin\Debug\FizzBuzz.library.dll
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzz.Library.Test\bin\Debug\nunit.framework.dll
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzz.Library.Test\bin\Debug\FizzBuzz.library.pdb
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\FizzBuzz.Library.Test\bin\Debug\nunit.framework.xml
