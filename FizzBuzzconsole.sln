@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzconsole", "FizzBuzz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz.library", "FizzBuzz.library\FizzBuzz.library.csproj", "{00430A1B-BA97-42E8-B6C9-D066DF939F98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz.Library.Tests", "FizzBuzzer\FizzBuzz.Library.Tests.csproj", "{14EE3598-9F4D-4628-A8AE-95A44F0B0CE1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz.Library.Tests", "nbattu.Library.Test\FizzBuzz.Library.Tests.csproj", "{3CF2A78B-6539-43B2-8696-EA78BFEA0F4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{00430A1B-BA97-42E8-B6C9-D066DF939F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00430A1B-BA97-42E8-B6C9-D066DF939F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00430A1B-BA97-42E8-B6C9-D066DF939F98}.Release|Any CPU.Build.0 = Release|Any CPU
-		{14EE3598-9F4D-4628-A8AE-95A44F0B0CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{14EE3598-9F4D-4628-A8AE-95A44F0B0CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{14EE3598-9F4D-4628-A8AE-95A44F0B0CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{14EE3598-9F4D-4628-A8AE-95A44F0B0CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CF2A78B-6539-43B2-8696-EA78BFEA0F4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF2A78B-6539-43B2-8696-EA78BFEA0F4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF2A78B-6539-43B2-8696-EA78BFEA0F4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF2A78B-6539-43B2-8696-EA78BFEA0F4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

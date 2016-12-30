@@ -14,12 +14,12 @@ namespace FizzBuzz.Library.Tests
             string output=FizzBuzzer.Getvalue(input);
             Assert.AreEqual("1", output);
         }
-        [TestMethod]
-        public void Buzzer_When2_Returns2()
+        [TestMethod]       
+        public void Buzzer_WhenDefault_ReturnsInput(int input)
         {
-            int input = 2;
+          
             string output = FizzBuzzer.Getvalue(input);
-            Assert.AreEqual("2", output);
+            Assert.AreEqual(input.ToString(), output);
         }
         [TestMethod]
         public void Buzzer_When1_ReturnsFizz()

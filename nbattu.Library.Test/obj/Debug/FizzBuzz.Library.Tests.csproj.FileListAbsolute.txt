@@ -1,0 +1,9 @@
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\nbattu.Library.Test\bin\Debug\nbattu.Library.Test.dll
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\nbattu.Library.Test\bin\Debug\nbattu.Library.Test.pdb
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\nbattu.Library.Test\bin\Debug\FizzBuzz.library.dll
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\nbattu.Library.Test\bin\Debug\nunit.framework.dll
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\nbattu.Library.Test\bin\Debug\FizzBuzz.library.pdb
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\nbattu.Library.Test\bin\Debug\nunit.framework.xml
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\nbattu.Library.Test\obj\Debug\FizzBuzz.Library.Tests.csprojResolveAssemblyReference.cache
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\nbattu.Library.Test\obj\Debug\nbattu.Library.Test.dll
+c:\users\samar\documents\visual studio 2015\Projects\FizzBuzzconsole\nbattu.Library.Test\obj\Debug\nbattu.Library.Test.pdb
